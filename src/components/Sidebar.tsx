@@ -29,9 +29,9 @@ export function Sidebar() {
     console.log(data)
 
     return (
-        <aside className="w-[348px] bg-blue-650 p-6 border-l border-blue-600">
+        <aside className="w-[348px] bg-blue-650 p-6 border-l border-gray-900">
             <span className="font-bold text-2xl pb-6 mb-6 border-b border-blue-600 block"> 
-               <center> Cronograma de Processo </center>
+              <center> Cronograma de Processo </center>
              </span>
 
         <div className="flex flex-col gap-8">

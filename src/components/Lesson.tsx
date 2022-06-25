@@ -9,7 +9,7 @@ interface LessonProps {
 
 export function Lesson(props: LessonProps) {
 
-    const isLessonAvailable = false;
+    const isLessonAvailable = true;
 
     return (
         <a href="#">
